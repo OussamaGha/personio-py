@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - master
+    - bugfix
     paths-ignore:
     - 'docs/**'
     - '*.md'
